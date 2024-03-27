@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/animals/static/css/main.e234e284.css",
+    "main.js": "/animals/static/js/main.98bc29f9.js",
+    "static/media/background.jpg": "/animals/static/media/background.d2b0c0ae41fb04a7268f.jpg",
+    "index.html": "/animals/index.html",
+    "main.e234e284.css.map": "/animals/static/css/main.e234e284.css.map",
+    "main.98bc29f9.js.map": "/animals/static/js/main.98bc29f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e234e284.css",
+    "static/js/main.98bc29f9.js"
+  ]
+}
